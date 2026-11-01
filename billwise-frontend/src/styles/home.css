@@ -1,0 +1,46 @@
+.home{
+    background:#f4f7fb;
+    min-height:100vh;
+}
+
+.hero{
+    text-align:center;
+    padding:80px 20px;
+    background:#2563eb;
+    color:white;
+}
+
+.hero h1{
+    font-size:48px;
+    margin-bottom:15px;
+}
+
+.hero h2{
+    margin-bottom:20px;
+}
+
+.hero p{
+    max-width:700px;
+    margin:auto;
+    line-height:1.6;
+}
+
+.home-buttons{
+    margin-top:30px;
+}
+
+.home-buttons button{
+    margin:10px;
+    padding:12px 25px;
+    font-size:16px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.home-footer{
+    text-align:center;
+    padding:20px;
+    background:#1e3a8a;
+    color:white;
+}
