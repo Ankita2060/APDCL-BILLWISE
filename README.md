@@ -70,6 +70,11 @@ PDF document processing.
 Data visualization and reporting.
 Git-based version control and collaborative development.
 
+Links of  demo of project
+
+https://drive.google.com/file/d/1H3-RSEZ3fXsDmNAOu-Vt8JgZAG3eDorx/view?usp=drive_link
+https://drive.google.com/file/d/15FYQgWNpN6GOAvWowN3-ekksZbnOdjTq/view?usp=drive_link
+
 👩‍💻 Developer
 
 Ankita Chakraborty
